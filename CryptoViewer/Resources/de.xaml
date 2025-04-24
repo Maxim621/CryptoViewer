@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:System="clr-namespace:System;assembly=mscorlib">
+    <System:String x:Key="SelectLanguageLabel">Sprache auswählen</System:String>
+    <System:String x:Key="ToggleTheme">Thema wechseln</System:String>
+    <System:String x:Key="ToggleLanguage">Sprache wechseln</System:String>
+    <System:String x:Key="SearchLabel">Kryptowährungen suchen</System:String>
+    <System:String x:Key="BackButton">Zurück</System:String>
+    <System:String x:Key="DetailsTitle">Details</System:String>
+    <System:String x:Key="PriceLabel">Preis (USD):</System:String>
+    <System:String x:Key="ChangeLabel">Änderung in 24h:</System:String>
+    <System:String x:Key="VolumeLabel">Volumen 24h (USD):</System:String>
+</ResourceDictionary>
